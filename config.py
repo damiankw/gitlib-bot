@@ -1,0 +1,11 @@
+# ezcbot
+ROOM = "omg"
+USER = "OMG_BOT"
+EMAIL = ""
+PASSWORD = ""
+
+# ezclib
+DEBUG_TO_CONSOLE = True
+DEBUG_TO_FILE = True
+FILE_DEBUG_LEVEL = 10
+RECONNECT_DELAY = 20
